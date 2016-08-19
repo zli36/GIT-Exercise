@@ -1,4 +1,4 @@
-### Git Exercise
+# Git Exercise
 * Clone Repository
 * Create new Branch
 * Create a new file with name as your unity id
