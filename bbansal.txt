@@ -1,0 +1,3 @@
+Sample file for git exercise
+Bhavya Bansal
+200068385
